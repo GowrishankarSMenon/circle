@@ -1,0 +1,19 @@
+{
+  "name": "image-classificaiton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/api.test.js",
+    "test:watch": "mocha --watch test/api.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "mocha": "^11.7.1"
+  }
+}
